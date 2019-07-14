@@ -1,5 +1,8 @@
 [
 
+
+
+
   {
     "action": "connect",
     "eventUrl": ["https://example.com/events"],
@@ -8,8 +11,8 @@
     "endpoint": [
       {
         "type": "phone",
-        "number": "447960290155",
-        "dtmfAnswer": "2p02p"
+        "number": "447891571270",
+        "onAnswer": {“url”:"https://example.com/answer", "ringback":"http://example.com/ringtone.wav" }
       }
     ]
   }
