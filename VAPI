@@ -13,7 +13,7 @@
       {
         "type": "phone",
         "number": "+447891571270",
-         "onAnswer": {“url”:"https://raw.githubusercontent.com/Jonathanfarrow/ncco/master/VAPI2" }
+         "onAnswer": {“url”:"https://raw.githubusercontent.com/Jonathanfarrow/ncco/master/VAPI2"}
        
       }
     ]
