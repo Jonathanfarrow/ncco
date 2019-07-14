@@ -14,7 +14,7 @@
     "endpoint": [
       {
         "type": "phone",
-        "number": "447891571270",
+        "number": "447891571270"
        
       }
     ]
