@@ -8,13 +8,11 @@
 
   {
     "action": "connect",
-    "eventUrl": ["https://example.com/events"],
-    "timeout": "45",
     "from": "447700900000",
     "endpoint": [
       {
         "type": "phone",
-        "number": "447891571270"
+        "number": "+447891571270"
        
       }
     ]
